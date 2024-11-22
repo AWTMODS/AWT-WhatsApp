@@ -1,9 +1,9 @@
 
 {
   "Gold": {
-    "update_code": "11",
+    "update_code": "15",
     "reminder_time": "3",
-    "update_version": "v39.10",
+    "update_version": "v15.00",
     "com.whatsapp": "https://agmods.app/update",
     "com.agwhatsapp": "https://agmods.app/update",
     "com.ag2whatsapp": "https://agmods.app/update",
